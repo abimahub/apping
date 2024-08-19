@@ -268,3 +268,4 @@ NB: favicons are unlikely to load on loaclhost due to CRS, short answer is to le
 
 *NB:favicon.io and similar will convert whatever image file you upload into a downloadable folder containing all the variants of the favicon you will need.*
 
+<h2>Create .gitignore file in the main folder and add: node_modules *to allow git to ignore the 100s of node files*</h2>
